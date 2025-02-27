@@ -28,3 +28,4 @@ cmake -DLIBTORCH_HEADER_ROOT=${LIBTORCH_HEADER_ROOT}  \
       ..
 make
 rm -rf ${VISION_IOS_ROOT}/build
+
